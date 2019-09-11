@@ -30,7 +30,7 @@
 
 # 基础项目
 
-[Spring Boot构建电商基础秒杀项目笔记](https://github.com/boyscoding/miaosha/miaosha_nodes/docs/base.md)
+[Spring Boot构建电商基础秒杀项目笔记](https://github.com/boyscoding/miaosha/blob/master/miaosha_nodes/docs/base.md)
 
 * 效果展示
   * 注册
@@ -66,7 +66,7 @@
 
 # 进阶项目
 
-[性能优化，打造亿级秒杀系统项目笔记 【上】](https://github.com/boyscoding/miaosha/miaosha_nodes/blob/master/docs/advance_p1.md)
+[性能优化，打造亿级秒杀系统项目笔记 【上】](https://github.com/boyscoding/miaosha/blob/master/miaosha_nodes/docs/advance_p1.md)
 
 - 前言
 - 进阶项目核心知识点
@@ -151,7 +151,7 @@
 
 ------
 
-[性能优化，打造亿级秒杀系统项目笔记 【下】](https://github.com/boyscoding/miaosha/miaosha_nodes/blob/master/docs/advance_p2.md)
+[性能优化，打造亿级秒杀系统项目笔记 【下】](https://github.com/boyscoding/miaosha/blob/master/miaosha_nodes/docs/advance_p2.md)
 
 - 交易优化之缓存库存
   - 交易接口瓶颈
