@@ -15,9 +15,9 @@
 **谢谢您对本项目的支持** <br/>
 **请点击此处进行**[Star](https://github.com/boyscoding/jseckill/stargazers)
 
-**GitHub** 地址为[https://github.com/liushaoming/jseckill](https://github.com/boyscoding/jseckill)
+**GitHub** 地址为[https://github.com/boyscoding/miaosha](https://github.com/boyscoding/miaosha)
 
-建议访问GitHub以获取更多分布式项目源码[https://github.com/boyscoding?tab=repositories](https://github.com/liushaoming?tab=repositories)
+建议访问GitHub以获取更多分布式项目源码[https://github.com/boyscoding?tab=repositories](https://github.com/boyscoding?tab=repositories)
 
 ## 技术栈
 
