@@ -30,7 +30,7 @@
 
 # 基础项目
 
-[Spring Boot构建电商基础秒杀项目笔记](https://github.com/boyscoding/miaosha/miaosha_nodes/blob/master/docs/base.md)
+[Spring Boot构建电商基础秒杀项目笔记](https://github.com/boyscoding/miaosha/miaosha_nodes/docs/base.md)
 
 * 效果展示
   * 注册
