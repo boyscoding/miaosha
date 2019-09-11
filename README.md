@@ -11,6 +11,7 @@
 ## 介绍
 
 <code>miaosha</code>:Java实现的秒杀网站，基于Spring Boot 2.X。 
+此项目由慕课秒杀系统改编而来。
 
 **谢谢您对本项目的支持** <br/>
 **请点击此处进行**[Star](https://github.com/boyscoding/jseckill/stargazers)
