@@ -1,4 +1,4 @@
-# 校园选课基础秒杀项目 
+# 基础秒杀项目 
 
 ![license](https://img.shields.io/github/license/alibaba/dubbo.svg)
 
